@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1617852088 source:c:\users\onkar\documents\practice\lai yung algo\lai yung algo\main.cpp
+	<iostream>
+	<thread>
+	<time.h>
+	<stdlib.h>
+	<unistd.h>
+	"timeFrame.h"
+	"Node.h"
+	"timeFrame.h"
+	"channel.h"
+	"Marker.h"
+
+1617731333 c:\users\onkar\documents\practice\lai yung algo\lai yung algo\include\node.h
+	<iostream>
+
+1617852440 source:c:\users\onkar\documents\practice\lai yung algo\lai yung algo\src\node.cpp
+	"Node.h"
+	<iostream>
+	<unistd.h>
+
+1617852009 source:c:\users\onkar\documents\practice\lai yung algo\lai yung algo\src\timeframe.cpp
+	"timeFrame.h"
+	<time.h>
+	<stdlib.h>
+	<unistd.h>
+	<iomanip>
+	<iostream>
+
+1617548579 c:\users\onkar\documents\practice\lai yung algo\lai yung algo\include\timeframe.h
+
+1617852009 source:c:\users\onkar\documents\practice\lai yung algo\lai yung algo\src\channel.cpp
+	"channel.h"
+	<iostream>
+	<unistd.h>
+
+1617726467 c:\users\onkar\documents\practice\lai yung algo\lai yung algo\include\channel.h
+
+1617852679 source:c:\users\onkar\documents\practice\lai yung algo\lai yung algo\src\marker.cpp
+	"Marker.h"
+	<iostream>
+	<unistd.h>
+	<iostream>
+	"Node.h"
+
+1617815676 c:\users\onkar\documents\practice\lai yung algo\lai yung algo\include\marker.h
+	"Node.h"
+
