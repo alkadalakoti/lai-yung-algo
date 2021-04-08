@@ -1,6 +1,7 @@
 # lai-yung-algo
 
-Implimention of Lai yang algorithm with no input from the user
+Implimention of Lai yang algorithm with no input from the user.
+This code is implimented using CODE:BLOCKS IDE
 # Created 3 threads for different purposes 
   1. For Time stamp with the channel information i.e. which channel has how much ammount in it.
   2. Created for marker it sends RED signal for every process at random time and collects the information about the ammount which the process has
